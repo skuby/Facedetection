@@ -1,2 +1,3 @@
 # Facedetection
-Face detection Technicalities
+I deleted "Face detection Technicalities"
+On to the next adventure
